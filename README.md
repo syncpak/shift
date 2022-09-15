@@ -16,9 +16,9 @@ The fourth position in a binary number equal to 00001000 (8) will be converted t
 
 When using an integer to represent many from by ORing them together
 
-#define BLUE   1
-#define YELLOW 2
-#define ORANGE 4
-#define WHITE  8
+#define BLUE   1</br>
+#define YELLOW 2</br>
+#define ORANGE 4</br>
+#define WHITE  8</br>
 
-Then i take input in a program to change selection "3" which would translate to ORANGE
+Then I take input in a program to change selection "3" which would translate to ORANGE
